@@ -6,7 +6,6 @@ Welcome to our public repositories. You may find here source for publicly publis
 
 Core maintainters of this organization are:
 
-- [@jvilimek](https://github.com/jvilimek)
 - [@footcha](https://github.com/footcha)
 - [@martinsamanek](https://github.com/martinsamanek)
 
